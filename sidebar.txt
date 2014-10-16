@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ca:home|Door43 (ca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ca|d43-ca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ca/archive/master.zip|d43-ca.zip]]
+
+**Recent Changes**
+{{changes>ns = ca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ca|Ethnologue data]]
+
